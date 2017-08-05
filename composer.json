@@ -3,7 +3,7 @@
     "type": "library",
     "description": "",
     "keywords": ["html", "dom", "parser"],
-    "homepage": "https://github.com/sunra/php-simple-html-dom-parser",
+    "homepage": "https://github.com/a3gz/php-simple-html-dom-parser",
     "license": "MIT",
     "authors": [
         {   
