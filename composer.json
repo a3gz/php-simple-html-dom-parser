@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": { 
-            "Sunra\\PhpSimpleHtmlDomParser": "src/"
+            "Sunra\\PhpSimpleHtmlDomParser\\": "src"
         }
     }    
 }
